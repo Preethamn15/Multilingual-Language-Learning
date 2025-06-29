@@ -69,11 +69,14 @@ streamlit run app/main.py
 ```
 
 How to Use VakyaAI
-Open the web interface.
+  Open the web interface.
+  Select your preferred language.
+  Choose Text Chat or Voice Chat.
+  Start interacting with the AI — get grammar corrections, vocabulary suggestions, and pronunciation feedback.
 
-Select your preferred language.
 
-Choose Text Chat or Voice Chat.
+contributions: Nandeesh C M nandeeshel2023@gmail.com
 
-Start interacting with the AI — get grammar corrections, vocabulary suggestions, and pronunciation feedback.
+📬 Contact 📧 preetham159@gmail.com
 
+📧 preethamn2004@gmail.com
