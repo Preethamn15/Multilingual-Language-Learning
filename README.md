@@ -40,11 +40,21 @@ A unique feature of VakyaAI is its seamless support for both **text and voice-ba
 
 ## 🎥 Demo Video
 
+### 📱 Mobile App Demo
+This is how it works when you use VakyaAI as a mobile app.
+
 [![Watch the Demo](Video-demo/thumbnail.jpg)](Video-demo/Mobile-app.mp4)
 
 Click the image above to watch the demo video showcasing the multilingual language learning mobile app in action.
 
 ---
+
+### 💻 Local Deployment Demo
+This is how it works when this repository is cloned into your local system and run.
+
+[![Watch the Demo](Video-demo/thumbnail.jpg)](Video-demo/Voice%20AI%20Chatbot.mp4)
+
+Click the image above to watch the demo video showcasing the AI-powered voice chatbot running locally.
 
 ## 🚀 Installation & Setup
 
