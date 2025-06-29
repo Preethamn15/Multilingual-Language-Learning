@@ -28,13 +28,17 @@ A unique feature of VakyaAI is its seamless support for both **text and voice-ba
 
 ---
 
-##  Tech Stack
--   **NLP Model:** LLaMA 3.2B (Groq-hosted)
--   **Conversational Framework:** LangGraph
--   **Speech Recognition & Text-to-Speech:** Whisper, TTS APIs
--   **Frontend:** Streamlit
--   **Backend:** Python
--   **Deployment:** Streamlit Cloud / Local / Docker
+| Component            | Technology/Library                     | Purpose                                       |
+| -------------------- | -------------------------------------- | --------------------------------------------- |
+| Frontend/UI          | **Streamlit**                          | Simple web app interface                      |
+| AI Model             | **Groq (Llama 3 70B via Groq API)**    | Generates AI chat responses                   |
+| Text-to-Speech (TTS) | **gTTS (Google Text-to-Speech)**       | Converts text responses to speech             |
+| Speech-to-Text (STT) | **SpeechRecognition + Google API**     | Converts voice input to text (local only)     |
+| Environment Vars     | **python-dotenv**                      | Loads API keys from `.env` securely           |
+| Audio Encoding       | **base64**                             | Embeds audio players in the web page          |
+| Utilities            | **uuid, datetime, re**                 | Manage session IDs, time stamps, text cleanup |
+| Deployment           | **Streamlit Community Cloud / GitHub** | Host app online                               |
+
 
 ---
 
