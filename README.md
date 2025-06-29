@@ -38,7 +38,11 @@ A unique feature of VakyaAI is its seamless support for both **text and voice-ba
 
 ---
 
+## 🎥 Demo Video
 
+[![Watch the Demo](Video-demo/thumbnail.jpg)](Video-demo/Mobile-app.mp4)
+
+Click the image above to watch the demo video showcasing the multilingual language learning mobile app in action.
 
 ---
 
