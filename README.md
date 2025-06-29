@@ -77,6 +77,6 @@ How to Use VakyaAI
 
 contributions: Nandeesh C M nandeeshel2023@gmail.com
 
-📬 Contact 📧 preetham159@gmail.com
-
+**Contact** 
+📧 preetham159@gmail.com
 📧 preethamn2004@gmail.com
